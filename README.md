@@ -7,4 +7,5 @@
 Tetsing local branch commit.
 TestingLocalBranch
 Local Branch commit with cchanges from VScode environment
+More changes...
 
